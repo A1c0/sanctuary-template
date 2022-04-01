@@ -1,0 +1,22 @@
+{
+  "name": "sanctuary-template",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "fluture": "^14.0.0",
+    "fluture-sanctuary-types": "^7.1.0",
+    "mem-fp": "^1.0.0",
+    "sanctuary": "^3.1.0",
+    "sanctuary-def": "^0.22.0",
+    "sanctuary-lourdes": "^0.6.1"
+  },
+  "devDependencies": {
+    "@trivago/prettier-plugin-sort-imports": "^3.1.1",
+    "depcheck": "^1.4.3",
+    "dotenv": "^16.0.0",
+    "prettier": "^2.6.1",
+    "prettier-sanctuary": "^0.10.1"
+  }
+}

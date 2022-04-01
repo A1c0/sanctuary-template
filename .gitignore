@@ -1,0 +1,7 @@
+.idea
+.env
+node_modules
+/db.dump
+/face-off-s3.log
+/error.log
+.DS_Store
