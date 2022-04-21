@@ -4,6 +4,10 @@
   "main": "index.js",
   "license": "MIT",
   "type": "module",
+  "volta": {
+    "node": "16.14.2",
+    "yarn": "1.22.18"
+  },
   "dependencies": {
     "fluture": "^14.0.0",
     "fluture-sanctuary-types": "^7.1.0",
